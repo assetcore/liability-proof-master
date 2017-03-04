@@ -1,0 +1,4 @@
+*.gem
+.ruby-version
+.tags
+.bundle
